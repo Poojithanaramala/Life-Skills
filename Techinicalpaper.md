@@ -1,8 +1,4 @@
 # Technical Paper:Caching Approaches for Performance and Scalability
-## Abstract
-This paper provides an analysis of various caching techniques to solve performance and scaling challenges arising from a project. Given the current pressure on servers and system availability, caching is still an optimal way for decreasing latency and easing the load on databases and applications. This paper covers caching principles, the comparative analysis of general approaches, the comparison of their benefits and drawbacks, and the recommendations most suitable for our project.
----
-
 ## 1. Introduction
 
 ### 1.1 Project Background
