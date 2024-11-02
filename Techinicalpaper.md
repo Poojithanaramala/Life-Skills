@@ -4,10 +4,6 @@
 ### 1.1 Project Background
 In the process of our project implementation, we gradually defined a number of performance-related issues and problems, having trouble meeting higher levels of load. Initial profiling exercises also revealed that there were unreasonable delays when data was being retrieved, which really froze the system’s interface, even after possibly identifying user profiles. These problems are suggested to be solved by caching strategies that minimize the extent of data that needs to be retrieved from other sources and decrease latency.
 
-### 1.2 Purpose of the Investigation
-The objective here is to look at various caching strategies, in order to come up with a caching strategy that is most effective in improving performance, as well as being possible to scale and implement within the current structure.
----
-
 ## 2. Caching Principles
 
 ### 2.1 Definition of Caching
