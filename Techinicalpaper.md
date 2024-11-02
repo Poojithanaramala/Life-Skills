@@ -92,11 +92,6 @@ Based on the project's requirements, we recommend a combination of in-memory and
 3. **Client-Side Caching**: Implement caching headers and service workers for static resources to enhance the end-user experience.
 
 ---
-
-## 6. Conclusion
-Thus, caching provides several opportunities for increasing the project’s efficiency and capability on the pathways that are crucial for it. Through the proposed caching approaches, we seek to solve existing problems and design a framework that can scale to future capacity. This kind of approach suits our architecture according to plan, and comes with a lower cost of implementing an improved application performance.
----
-
 ## References
 - [Redis Documentation](https://redis.io/documentation)
 - [AWS ElastiCache Documentation](https://aws.amazon.com/elasticache/)
