@@ -3,7 +3,7 @@
 ## 1. Tips on getting through the Feynman technique and how to speed up the learning process with it
 
 ### Question 1
-**What is Feynman Technique all about? Explain in 1 line.**
+**What is Feynman Technique all about?
 
 The Feynman Technique is a learning technique where an individual describes a topic to a buddy, starts describing the topic again from the scratch as soon as his buddy does not understand and stop and clarify as soon as the buddy comprehends.
 
