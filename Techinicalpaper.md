@@ -2,7 +2,7 @@
 ## 1. Introduction
 
 ### 1.1 Project Background
-In the process of our project implementation, we gradually defined a number of performance-related issues and problems, having trouble meeting higher levels of load. Initial profiling exercises also revealed that there were unreasonable delays when data was being retrieved, which really froze the system’s interface, even after possibly identifying user profiles. These problems are suggested to be solved by caching strategies that minimize the extent of data that needs to be retrieved from other sources and decrease latency.
+In the process of the project implementation, I gradually defined a number of performance-related issues and problems, having trouble meeting higher levels of load. Initial profiling exercises also revealed that there were unreasonable delays when data was being retrieved, which really froze the system’s interface, even after possibly identifying user profiles. These problems are suggested to be solved by caching strategies that minimize the extent of data that needs to be retrieved from other sources and decrease latency.
 
 ## 2. Caching Principles
 
@@ -18,8 +18,6 @@ Caching is a technique of storing frequently accessed data in a temporary storag
 - **In-Memory Caching**
 - **Distributed Caching**
 - **Client-Side Caching**
-![Types of Caching](https://files.oaiusercontent.com/file-8BCXdxV6N1dt2wu1fmyFm8B4?se=2024-11-02T09%3A10%3A34Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Def985319-a619-40e6-87bc-5c38a7001b90.webp&sig=ek58A5oSp4krehOvx44ReAZM6xO4NNWs4YbcKHxT8LY%3D)
----
 
 ## 3. Caching Approaches
 
